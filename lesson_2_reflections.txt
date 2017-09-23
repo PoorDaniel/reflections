@@ -2,3 +2,7 @@ What happens when you initialize a repository?
 Why do you need to do it?
 
 a new repository is created..i need that in order to make commits
+
+How is the staging area different from the working directory and the repository?
+ What value do you think it offers?
+it's the area before a file is commited; still time to change
