@@ -19,3 +19,7 @@ good overview, reachable, unreachable states, all branches
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 only one branch, 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+automatic, faster, probably errors
+manually: thinking for myself, 
